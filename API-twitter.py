@@ -8,9 +8,6 @@ auth = tweepy.OAuthHandler('46pvnSwIVylfWepbPsP4433wL', 'xWDPHaUkk0ub93qj1DaYgJc
 auth.set_access_token('1952916806-9WbU9ROPLd4aVPprQZqWJhaW4RSXrBw4oK8A4Ow', 'gW5iuYPtrTxVhPmQxBemsKz6jCAOqbYx1fT0ewKHFyAkG')
 api = tweepy.API(auth)
 
-search_term = 'coronavírus'
-search_term2 = 'codiv-19'
-
 
 tweets = api.search(q="coronavírus", lang="pt", count=2000, tweet_mode='extended')
 i = 37
