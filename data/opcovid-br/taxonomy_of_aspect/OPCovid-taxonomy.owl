@@ -1,0 +1,3191 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/rcBG8DjhqaH9RPxWqmDfz#"
+     xml:base="http://webprotege.stanford.edu/project/rcBG8DjhqaH9RPxWqmDfz"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/rcBG8DjhqaH9RPxWqmDfz"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R03DGlSFD2epEsraJSJCC8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R03DGlSFD2epEsraJSJCC8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">camilo santana</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R33AYsX8TjW7v3oNNx0X8l -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R33AYsX8TjW7v3oNNx0X8l">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">exportação chinesa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R33TDzWMh7fPbhKp8gD1oS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R33TDzWMh7fPbhKp8gD1oS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">Educação-Ciência</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R3d2zRVSaGyppryWNqCzvh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R3d2zRVSaGyppryWNqCzvh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RLQAhC28c9RqYTn7d2o0m7"/>
+        <rdfs:label xml:lang="pt-br">mandetta</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R5TSAF1byeQI7TMy8gMVvB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R5TSAF1byeQI7TMy8gMVvB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">imprensa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R71dBJcUPVho91MWP9lyRhX -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R71dBJcUPVho91MWP9lyRhX">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">doença</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R78h6SjcHBhFBHtazTbRG9U -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R78h6SjcHBhFBHtazTbRG9U">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">solidariedade</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Nkh5BNzLlTIMRk9DOJOhi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7Nkh5BNzLlTIMRk9DOJOhi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">OMS</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7NrSxVNq1KT73h19fUK7Ft -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7NrSxVNq1KT73h19fUK7Ft">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">respirador</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7R6FKqwvc64ErZfDeY2sns -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7R6FKqwvc64ErZfDeY2sns">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">cuidado intensivo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7e2NXVegqPmHHSDA5aCsMV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7e2NXVegqPmHHSDA5aCsMV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">the washington post</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7eVWXQzW1AGA3Kqv1vLzx9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7eVWXQzW1AGA3Kqv1vLzx9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">rodrigo maia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7f3qG4lfm1TeoY6pTi7swB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7f3qG4lfm1TeoY6pTi7swB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">corrupção</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ftqfTLb7wozriyVnbv5nm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7ftqfTLb7wozriyVnbv5nm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCbaoAxacE3B1gym94y5yKX"/>
+        <rdfs:label xml:lang="pt-br">comunavírus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7hVG4SiUrucqHbz7hclvnl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7hVG4SiUrucqHbz7hclvnl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBhxju0VUcEaqcIEhBhlHrS"/>
+        <rdfs:label xml:lang="pt-br">espanha</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7hoHgDlkDd2fcoEFig16VC -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7hoHgDlkDd2fcoEFig16VC">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">venda internacional</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7l6LPlqQGK54IZRflDkRW2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7l6LPlqQGK54IZRflDkRW2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">redução da burocracia para importação de produtos</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7m4phFTnPTbWR8rUJ3NiAh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7m4phFTnPTbWR8rUJ3NiAh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">UBS</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ttVUenKatYw9HUOf6tLGq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7ttVUenKatYw9HUOf6tLGq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">comitê de enfrentamento</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7wGZJO2aUA9stxQuo6hppH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7wGZJO2aUA9stxQuo6hppH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">suspenção de atividade</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7xPLLitnnOQXAmjwzojbYT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7xPLLitnnOQXAmjwzojbYT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">operadora de turismo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7xtRBn5uluSqgwae4Q7esg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7xtRBn5uluSqgwae4Q7esg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">crime de racismo contra chinês</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7yU2JfO94qFMZBZyenNzN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7yU2JfO94qFMZBZyenNzN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">tecnologia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R82MMnd2TmyRgKlN3haUthd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R82MMnd2TmyRgKlN3haUthd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">controle de fronteira</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R84XxFfogOVdQ1WLd37pZzr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R84XxFfogOVdQ1WLd37pZzr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">sérgio moro</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R885N7tFbNOwA4iKF5mUDXk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R885N7tFbNOwA4iKF5mUDXk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">relaxamento social</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R88jzt4Jb8mPWtKLN0ArjWR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R88jzt4Jb8mPWtKLN0ArjWR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">indústria de games</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8CvkkLwc8nq6q5nSUAyHGF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8CvkkLwc8nq6q5nSUAyHGF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RXEyfCIEGqOsd3g31Nops8"/>
+        <rdfs:label xml:lang="pt-br">UFRRJ</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Ig2wWnSbeeBn1DeeVReoR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8Ig2wWnSbeeBn1DeeVReoR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R33TDzWMh7fPbhKp8gD1oS"/>
+        <rdfs:label xml:lang="pt-br">cientista</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8NoFxqE2LRURL4vSgNyWVg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8NoFxqE2LRURL4vSgNyWVg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">telemedicina</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8NsFO3yPOcc9OD6B0HFZb4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8NsFO3yPOcc9OD6B0HFZb4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">internação</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8OAF4h8JgMQrpWyQ0O6Luz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8OAF4h8JgMQrpWyQ0O6Luz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">facista</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8OKT9v3YWcRn3e6lUUfMkM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8OKT9v3YWcRn3e6lUUfMkM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">coreia do sul</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8PtwFxmOz0ivtn2LDGf5FB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8PtwFxmOz0ivtn2LDGf5FB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">tratamento</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8SthtK3BN8vQQjUqh57wf9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8SthtK3BN8vQQjUqh57wf9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">óbito</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8TzU7MjERUt9dD9fhyzMIc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8TzU7MjERUt9dD9fhyzMIc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">câmera de controle infravermelho</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8VPydQjIrJKCVlzEu2iFjh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8VPydQjIrJKCVlzEu2iFjh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R33TDzWMh7fPbhKp8gD1oS"/>
+        <rdfs:label xml:lang="pt-br">sem aula presencial</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8YYBevqp6QD7DyjhE7X4pO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8YYBevqp6QD7DyjhE7X4pO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">fundo partidário</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8YijBrBVoAoPgWowuseuvK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8YijBrBVoAoPgWowuseuvK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">são paulo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8aS6JfFUGwcRLyLTHlUrTp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8aS6JfFUGwcRLyLTHlUrTp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9eSwpMS2kHWpswYfTFcisN"/>
+        <rdfs:label xml:lang="pt-br">lixo domiciliar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ah16F8MYm6w0fNTbzREZK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8ah16F8MYm6w0fNTbzREZK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">alexandre fernandez</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8clGT9gE6zokXlHZTIhtIB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8clGT9gE6zokXlHZTIhtIB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">direito do trabalhador</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8dL18LLnIcPrNKZSUDbr3Q -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8dL18LLnIcPrNKZSUDbr3Q">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">subnotificação</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8jzpUOZHzXqG23Eyd141Hj -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8jzpUOZHzXqG23Eyd141Hj">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">auxílio emergencial</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8lAZmpjMzbzbnbBjS5xsy4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8lAZmpjMzbzbnbBjS5xsy4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">diagnóstico</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8lctNgNDWYexAbmbQzykzl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8lctNgNDWYexAbmbQzykzl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rsu321ORwTMkJgsnrkT0xs"/>
+        <rdfs:label xml:lang="pt-br">cloroquina</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8lvocAj7J8lRjj3ZMhCmdL -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8lvocAj7J8lRjj3ZMhCmdL">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">ansiedade</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8pQYzDnnHKGfGSCItazpXb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8pQYzDnnHKGfGSCItazpXb">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RByTngKKdlnUBVoDK1vsizp"/>
+        <rdfs:label xml:lang="pt-br">infecção no pulmão</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8prcc7yPOJBHLa4lKz3vMT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8prcc7yPOJBHLa4lKz3vMT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9kU7zXjzwgEUDyzg5jcMgX"/>
+        <rdfs:label xml:lang="pt-br">petra costa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8rfiy6nkpj0fFRHZrA13ce -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8rfiy6nkpj0fFRHZrA13ce">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">vereador</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8rwwFwgJOLbpQFhlUg9k10 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8rwwFwgJOLbpQFhlUg9k10">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBhxju0VUcEaqcIEhBhlHrS"/>
+        <rdfs:label xml:lang="pt-br">dinamarca</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8s2ozgx36lUV5DJS6vjXNK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8s2ozgx36lUV5DJS6vjXNK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58"/>
+        <rdfs:label xml:lang="pt-br">grupo de risco</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8xzbfB5TKOus6G5M1LwyTS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8xzbfB5TKOus6G5M1LwyTS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">onyx lorenzoni</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8yOYM5FgSzGsbQ7gw4OHAz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8yOYM5FgSzGsbQ7gw4OHAz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">hospital</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R90bRh5REyNJd3w8ZfDZl3Y -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R90bRh5REyNJd3w8ZfDZl3Y">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">índia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R90bpLXhJhdckz1I6jAQoPY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R90bpLXhJhdckz1I6jAQoPY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9eSwpMS2kHWpswYfTFcisN"/>
+        <rdfs:label xml:lang="pt-br">pico</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R90voKonx7rJMeI5DL4Jzuk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R90voKonx7rJMeI5DL4Jzuk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">funcionário infectado</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R911WwA6A9ND2U9qMhzeCxz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R911WwA6A9ND2U9qMhzeCxz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">campinas</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R94QnrVFjIB1BCtISnRyyh1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R94QnrVFjIB1BCtISnRyyh1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RXEyfCIEGqOsd3g31Nops8"/>
+        <rdfs:label xml:lang="pt-br">UFMG</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R94Yeotxk5YbL19UXhZ2a6b -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R94Yeotxk5YbL19UXhZ2a6b">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">pandemia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R94lIwzRfsZ7TbHbKr3n21d -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R94lIwzRfsZ7TbHbKr3n21d">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">ministério da saúde</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Ad3UTXILE1GUu7MH9eSgZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9Ad3UTXILE1GUu7MH9eSgZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9eSwpMS2kHWpswYfTFcisN"/>
+        <rdfs:label xml:lang="pt-br">curva</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9CwMXlQ1R3uKKXMfmcH9PV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9CwMXlQ1R3uKKXMfmcH9PV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8YijBrBVoAoPgWowuseuvK"/>
+        <rdfs:label xml:lang="pt-br">paraisópolis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9FmJIOe6pudSS1bhwOOuRI -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9FmJIOe6pudSS1bhwOOuRI">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">mamata eleitoral</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9GGiB85a9uoBV3vj12tTTo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9GGiB85a9uoBV3vj12tTTo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">manaus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9JWVpL4IhBFuV3qo9foLzW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9JWVpL4IhBFuV3qo9foLzW">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">UPA</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9M2x6nsKsvsk4nDwtGjqP7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9M2x6nsKsvsk4nDwtGjqP7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCbTNtdoy7FDSIamcJggYmr"/>
+        <rdfs:label xml:lang="pt-br">valor da mensalidade</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9SfykYAhOOiKVStoOX4M8W -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9SfykYAhOOiKVStoOX4M8W">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">estado golpista</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9ShyRJDcQaPn6bMeQ6hLhJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9ShyRJDcQaPn6bMeQ6hLhJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">piauí</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9UbvOEbuQCOfdDmliuhefA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9UbvOEbuQCOfdDmliuhefA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">vírus da esquerdopata</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9ZshOOKQIlT5ZydcCpCmOE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9ZshOOKQIlT5ZydcCpCmOE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">terraplanista</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9bMhuG8TrC46mcvZFzZ78K -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9bMhuG8TrC46mcvZFzZ78K">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">prefeito</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">governo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9eSwpMS2kHWpswYfTFcisN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9eSwpMS2kHWpswYfTFcisN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">contaminação</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9fL7pAzHroqiuBHLPrzULS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9fL7pAzHroqiuBHLPrzULS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">jair bolsonaro</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9gIfcCED53BrvH4pB8VZcM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9gIfcCED53BrvH4pB8VZcM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">combate à ignorância</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">Economia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">Saúde</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9j6XM7UQCUCcsu01n8yeHG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9j6XM7UQCUCcsu01n8yeHG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">taxação de grandes fortunas</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9kU7zXjzwgEUDyzg5jcMgX -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9kU7zXjzwgEUDyzg5jcMgX">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDzfdo4ud1U6O1SU3XiGn7g"/>
+        <rdfs:label xml:lang="pt-br">mulher líder</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9lfvd4KhSyXKMCdfDjI993 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9lfvd4KhSyXKMCdfDjI993">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">roraima</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9lqxyxpZyuUl0ALIBQNqgj -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9lqxyxpZyuUl0ALIBQNqgj">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">banco mundial</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">caso</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9ndhREaFrsOAbGKoRpWu6Z -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9ndhREaFrsOAbGKoRpWu6Z">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">retomada do crescimento econômico</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9sSYRNPlVvWCLACXmCrgsc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9sSYRNPlVvWCLACXmCrgsc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">MST</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9yCBKTw0y3rrKQt9S3Jxle -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9yCBKTw0y3rrKQt9S3Jxle">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDXyLufaPttYMWgd2v0A15C"/>
+        <rdfs:label xml:lang="pt-br">belo horizonte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9yiEfSwPN4u7iKAWhQ4Ogi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9yiEfSwPN4u7iKAWhQ4Ogi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">crise sanitária</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9yqiShYSUMvPZKjJ9LERNM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9yqiShYSUMvPZKjJ9LERNM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">redução de frota</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB3IT70C86guslMgS4CuGEp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB3IT70C86guslMgS4CuGEp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9lfvd4KhSyXKMCdfDjI993"/>
+        <rdfs:label xml:lang="pt-br">porto velho</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">paciente</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB6KUA9Km1pF5dtZTvUiQ61 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB6KUA9Km1pF5dtZTvUiQ61">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">fake news</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBEKHkETrs3B6iKDkF1UCHl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBEKHkETrs3B6iKDkF1UCHl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7f3qG4lfm1TeoY6pTi7swB"/>
+        <rdfs:label xml:lang="pt-br">roubo de bilhões</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBMXnZYpzCzPABnu0dpPxVg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBMXnZYpzCzPABnu0dpPxVg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">live</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">medida de enfrentamento</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBStegX2rqcN4KSNe1ZpysZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBStegX2rqcN4KSNe1ZpysZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7f3qG4lfm1TeoY6pTi7swB"/>
+        <rdfs:label xml:lang="pt-br">água tônica protege de coronavírus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBTqoE9CabGlGofhXwrdyQJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBTqoE9CabGlGofhXwrdyQJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">doação</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBV6QYmGlcpjdhAZrnhitur -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBV6QYmGlcpjdhAZrnhitur">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">queda de arrecadação</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBVeh4kMk2jZmjEQYuiSBtA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBVeh4kMk2jZmjEQYuiSBtA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBhxju0VUcEaqcIEhBhlHrS"/>
+        <rdfs:label xml:lang="pt-br">portugal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBWub3shZ9QDYQZNO4jU34j -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBWub3shZ9QDYQZNO4jU34j">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">UTI</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBdZOshqbTVu6KbHP76poU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBdZOshqbTVu6KbHP76poU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBhxju0VUcEaqcIEhBhlHrS"/>
+        <rdfs:label xml:lang="pt-br">nova zelândia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBdrvFkNnJyBKSI4IbNONMc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBdrvFkNnJyBKSI4IbNONMc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">imunidade</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBhxju0VUcEaqcIEhBhlHrS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBhxju0VUcEaqcIEhBhlHrS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">europa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBmYUVJk0JCrGmKfy32vsqq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBmYUVJk0JCrGmKfy32vsqq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">santa catarina</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBoJ3cxKG5v5jE2APGw4NXR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBoJ3cxKG5v5jE2APGw4NXR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">luva descartável</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBomI1C1DmMDtjmNdauFLx4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBomI1C1DmMDtjmNdauFLx4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">helder barbalho</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBrLAt0eWfHxfhP5FUMTWvY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBrLAt0eWfHxfhP5FUMTWvY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCbaoAxacE3B1gym94y5yKX"/>
+        <rdfs:label xml:lang="pt-br">ditadura comunista</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBtDkQzrIQ9x6wh84OTT4QC -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBtDkQzrIQ9x6wh84OTT4QC">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">responsabilidade na pandemia global</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBvkdLSxOT7rPmN3I51XBXp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBvkdLSxOT7rPmN3I51XBXp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">proteção de índigena</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBvveP1NCKozTSqUVUEJaGf -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBvveP1NCKozTSqUVUEJaGf">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">consumo de álcool</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RByTngKKdlnUBVoDK1vsizp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RByTngKKdlnUBVoDK1vsizp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">sintoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC0HkWuLHeCQ3hSZ4P2K3kf -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC0HkWuLHeCQ3hSZ4P2K3kf">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RLQAhC28c9RqYTn7d2o0m7"/>
+        <rdfs:label xml:lang="pt-br">anders tegnell</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC5UVmaYI3hLckRKVWP9cah -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC5UVmaYI3hLckRKVWP9cah">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">comércio</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">brasil</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCCl0CYHZXMT0UkQ5Xg91jk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCCl0CYHZXMT0UkQ5Xg91jk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rsu321ORwTMkJgsnrkT0xs"/>
+        <rdfs:label xml:lang="pt-br">hidroxocloroquina</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCDyQeQbYpCVdDsxEaPm2rG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCDyQeQbYpCVdDsxEaPm2rG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">china</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCHmEQ022RvVBoWNoXSeKhK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCHmEQ022RvVBoWNoXSeKhK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">paraguai</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCINWUvFOdJeykUzcdQ12g -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCINWUvFOdJeykUzcdQ12g">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCbaoAxacE3B1gym94y5yKX"/>
+        <rdfs:label xml:lang="pt-br">invenção comunista</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCLPgnVnKOPDKVixequAPUY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCLPgnVnKOPDKVixequAPUY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">cenário de austeridade</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCOblQXLCmQ9lfj4CDPQKH0 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCOblQXLCmQ9lfj4CDPQKH0">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">tocantins</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCQgnm7pPNcDHrwOhQ5MpEQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCQgnm7pPNcDHrwOhQ5MpEQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">rota de dispersão</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCaWw5RAziL3k1Hzh864ssK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCaWw5RAziL3k1Hzh864ssK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">controle de acesso</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCaoUr2l7NvKz1acBIwbdYa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCaoUr2l7NvKz1acBIwbdYa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">epicentro da pandemia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCbTNtdoy7FDSIamcJggYmr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCbTNtdoy7FDSIamcJggYmr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R33TDzWMh7fPbhKp8gD1oS"/>
+        <rdfs:label xml:lang="pt-br">instituição privada</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCbaoAxacE3B1gym94y5yKX -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCbaoAxacE3B1gym94y5yKX">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">comunista</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCeSSqEaGksyyZew37im8kY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCeSSqEaGksyyZew37im8kY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">improbidade</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCfZYS1MRXLdRZYFhvxwot -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCfZYS1MRXLdRZYFhvxwot">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgqESPwfTgbrI1zZmqJg8K"/>
+        <rdfs:label xml:lang="pt-br">buenos aires</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCjjqTD4EruAMqR7emM6vST -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCjjqTD4EruAMqR7emM6vST">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">máscara</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCkVWBXihyStfvKbIi2ZGOt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCkVWBXihyStfvKbIi2ZGOt">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBhxju0VUcEaqcIEhBhlHrS"/>
+        <rdfs:label xml:lang="pt-br">itália</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCnEX9mHpy3gY46qNAbpda1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCnEX9mHpy3gY46qNAbpda1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">videoconferência</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCsAUGu0Eux5LIRvGz4SJ1x -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCsAUGu0Eux5LIRvGz4SJ1x">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">brasília</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCsIv9eNR8HG8ljiz5k7Em4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCsIv9eNR8HG8ljiz5k7Em4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">ajuda aos estados e munícipios</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCsRPWX405qlGVJ1g68NS4r -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCsRPWX405qlGVJ1g68NS4r">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">cura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCu2v2AulS9I1OX4cfPmPbK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCu2v2AulS9I1OX4cfPmPbK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">secretária especial da cultura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCvX4uPOfZMXmj2CXe3Sszj -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCvX4uPOfZMXmj2CXe3Sszj">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">fraude sanitária</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCvYXKOQyo9a4qnvyUNPm24 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCvYXKOQyo9a4qnvyUNPm24">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">preservarção da ordem pública</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCvkvwczlWqrdYvBjpEiNVF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCvkvwczlWqrdYvBjpEiNVF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RByTngKKdlnUBVoDK1vsizp"/>
+        <rdfs:label xml:lang="pt-br">tosse seca</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD021EuzSui1V790F0YvZWa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RD021EuzSui1V790F0YvZWa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">maranhão</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD08FKcvac8QBdzjaND1Eh5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RD08FKcvac8QBdzjaND1Eh5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governador</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD1cHNBKnRNfZJVNQAmLPt6 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RD1cHNBKnRNfZJVNQAmLPt6">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">tribunal internacional</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDBEESj9XR4rDfHUA32zfOY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDBEESj9XR4rDfHUA32zfOY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RXEyfCIEGqOsd3g31Nops8"/>
+        <rdfs:label xml:lang="pt-br">ICMC</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDD2zMhNkKBmVtZYD2kOeHJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDD2zMhNkKBmVtZYD2kOeHJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">emprego</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDDbgHRSyydf7oOB35Me6mU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDDbgHRSyydf7oOB35Me6mU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">aglomeração</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDGGSqEGgIbZUHxSUEMBTny -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDGGSqEGgIbZUHxSUEMBTny">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">crise de abastecimento</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDP6zQenYFfMKEIy8KiaRPd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDP6zQenYFfMKEIy8KiaRPd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RYfXYLljLPxL5ADkath8RY"/>
+        <rdfs:label xml:lang="pt-br">curitiba</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDPjL1cScPCHW6Wn0BeHkNO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDPjL1cScPCHW6Wn0BeHkNO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">wilson witzel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDQcXjOmyDKY9f86xn6MBvv -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDQcXjOmyDKY9f86xn6MBvv">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">amapá</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDS5qtWbwjURFPgwhmOM8gf -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDS5qtWbwjURFPgwhmOM8gf">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">cadastro de imigrantes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDVPSRLfFEeNjkOnOGaulaK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDVPSRLfFEeNjkOnOGaulaK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">conselho de medicina</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDXyLufaPttYMWgd2v0A15C -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDXyLufaPttYMWgd2v0A15C">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">minas gerais</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDZJwgDvd8oFFXZC4rKG4wx -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDZJwgDvd8oFFXZC4rKG4wx">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">arma biológica</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDa3C5liOm92ghUpp1rC5sc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDa3C5liOm92ghUpp1rC5sc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">leito</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">Localização</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDbCvGrTIf6MK1b04PDFriB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDbCvGrTIf6MK1b04PDFriB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RXEyfCIEGqOsd3g31Nops8"/>
+        <rdfs:label xml:lang="pt-br">USP</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDcooqFqDe2GgHwsCQHGpLl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDcooqFqDe2GgHwsCQHGpLl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">bahia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDej3tfyadS3rnYE1Xuvnnl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDej3tfyadS3rnYE1Xuvnnl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">feminícidio</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDhLCtE0kmkLxpeCE9qAUbn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDhLCtE0kmkLxpeCE9qAUbn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">mp 910</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDjsa1Q2u9Gz5uqHPS9ZQck -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDjsa1Q2u9Gz5uqHPS9ZQck">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">ministério público</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDmrIMpzFgbwCL564jsuznU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDmrIMpzFgbwCL564jsuznU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">rio de janeiro</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDmteBesnEMG5wNWgWNciq8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDmteBesnEMG5wNWgWNciq8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">fiocruz</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">serviços de saúde</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDqRheV4jrZ1GpHQPtHl8lc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDqRheV4jrZ1GpHQPtHl8lc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7f3qG4lfm1TeoY6pTi7swB"/>
+        <rdfs:label xml:lang="pt-br">soro anti-coronavírus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDrmLkpvGPNg5mkRuqOyXpJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDrmLkpvGPNg5mkRuqOyXpJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R71dBJcUPVho91MWP9lyRhX"/>
+        <rdfs:label xml:lang="pt-br">influenza</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDw4IuzhiuqwiqLKLmu6ACI -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDw4IuzhiuqwiqLKLmu6ACI">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">turquia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDzfdo4ud1U6O1SU3XiGn7g -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDzfdo4ud1U6O1SU3XiGn7g">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">líder global</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/REaoTErOOfR8rgTGLz3QQt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/REaoTErOOfR8rgTGLz3QQt">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">plano marshall</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RIqAjY2Pn0ngs9WIA2yRUw -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RIqAjY2Pn0ngs9WIA2yRUw">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">arrecadação de impostos</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RKacxNV1mRhSh86JLDu4Eq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RKacxNV1mRhSh86JLDu4Eq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">higiene</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLIPXvWZGwjlPpXDcoKS31 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RLIPXvWZGwjlPpXDcoKS31">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">EUA</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLQAhC28c9RqYTn7d2o0m7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RLQAhC28c9RqYTn7d2o0m7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">profissional da saúde</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RM9KiXvvoKGzzHLysQCqnu -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RM9KiXvvoKGzzHLysQCqnu">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7yU2JfO94qFMZBZyenNzN"/>
+        <rdfs:label xml:lang="pt-br">apple</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RNKdupyQIDtZ2sJTYlobrA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RNKdupyQIDtZ2sJTYlobrA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">quarentena</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/ROjmCUGiaMHpXZuF0O5D9E -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/ROjmCUGiaMHpXZuF0O5D9E">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R33TDzWMh7fPbhKp8gD1oS"/>
+        <rdfs:label xml:lang="pt-br">alimentação de estudante</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQTYG92OKtV0QVOtlUcmK8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RQTYG92OKtV0QVOtlUcmK8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">ceará</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RSWJcpcsbVwmkzrISLy9PV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RSWJcpcsbVwmkzrISLy9PV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">funai</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">isolamento social</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RUFLTE2ckEqx2BE5piw6lO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RUFLTE2ckEqx2BE5piw6lO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">vacina</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RUK2TOBh1Y8MpB22A45zSH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RUK2TOBh1Y8MpB22A45zSH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">senado</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RUqZsg7Z6NXbWJihzlD5kK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RUqZsg7Z6NXbWJihzlD5kK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">agricultura brasileira</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RWJ09Bhcjz8TdHSKmbRnD4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RWJ09Bhcjz8TdHSKmbRnD4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">ONU</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RXEyfCIEGqOsd3g31Nops8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RXEyfCIEGqOsd3g31Nops8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R33TDzWMh7fPbhKp8gD1oS"/>
+        <rdfs:label xml:lang="pt-br">universidade</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RYfXYLljLPxL5ADkath8RY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RYfXYLljLPxL5ADkath8RY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">paraná</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZKCtoAuH5NmGXigBcs7Xm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RZKCtoAuH5NmGXigBcs7Xm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">plenário</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZcKKp6lYwQJkzMzpFYBv9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RZcKKp6lYwQJkzMzpFYBv9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">teste</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RbAHFTPjMwjmQWGgTxl8uA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RbAHFTPjMwjmQWGgTxl8uA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R"/>
+        <rdfs:label xml:lang="pt-br">direito a informação</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RcbNPTCvtTLlhJ8NACW9GW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RcbNPTCvtTLlhJ8NACW9GW">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">selma arruda</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rdat53eQhUYmaKO7OJiCII -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rdat53eQhUYmaKO7OJiCII">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7yU2JfO94qFMZBZyenNzN"/>
+        <rdfs:label xml:lang="pt-br">google</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RfiOTYJ3fgTLSt7DtHyLsN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RfiOTYJ3fgTLSt7DtHyLsN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBWub3shZ9QDYQZNO4jU34j"/>
+        <rdfs:label xml:lang="pt-br">tele-UTI</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RfrRLq80O2ud4t0t3jhJsb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RfrRLq80O2ud4t0t3jhJsb">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">pernambuco</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RgWVkxTvANSUoZkFZNNr8R">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">Político-Social</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RgqESPwfTgbrI1zZmqJg8K -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RgqESPwfTgbrI1zZmqJg8K">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDaLn0zB1YTroIIHwFnSCbo"/>
+        <rdfs:label xml:lang="pt-br">argentina</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO">
+        <rdfs:label xml:lang="pt-br">OPCovid-19</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RkB1g6FCaiKcotbGdDl4WF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RkB1g6FCaiKcotbGdDl4WF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">tenda de higienização</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rmb9c84TuZdj7lAY29r3Gh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rmb9c84TuZdj7lAY29r3Gh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7f3qG4lfm1TeoY6pTi7swB"/>
+        <rdfs:label xml:lang="pt-br">esquema de rachadinha</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RncY1qSUEhTDcQ12xmj2H5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RncY1qSUEhTDcQ12xmj2H5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RLQAhC28c9RqYTn7d2o0m7"/>
+        <rdfs:label xml:lang="pt-br">médico</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rq1gzFXcZodwJK1v4sjPHJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rq1gzFXcZodwJK1v4sjPHJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCbaoAxacE3B1gym94y5yKX"/>
+        <rdfs:label xml:lang="pt-br">propagação do coronavírus é coisa de comunista</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rr8elRbSiVWxoOBmiScYpE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rr8elRbSiVWxoOBmiScYpE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">presidente</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RslOOJbRp4QZCFuQL6oaNI -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RslOOJbRp4QZCFuQL6oaNI">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9i4G83E2LMQQiRBlkeWdQn"/>
+        <rdfs:label xml:lang="pt-br">salário</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rsu321ORwTMkJgsnrkT0xs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rsu321ORwTMkJgsnrkT0xs">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9iX926YEMOIxSx2yRdFJqa"/>
+        <rdfs:label xml:lang="pt-br">medicamento</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RtMOpCO6kCBMHWZipyeZEU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RtMOpCO6kCBMHWZipyeZEU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">rastreamento de pessoa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RtxaSa7OqucFW3aKfc3Fxe -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RtxaSa7OqucFW3aKfc3Fxe">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R71dBJcUPVho91MWP9lyRhX"/>
+        <rdfs:label xml:lang="pt-br">h1n1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rw4smK9tt9YVkk7rcuJBab -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rw4smK9tt9YVkk7rcuJBab">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RLQAhC28c9RqYTn7d2o0m7"/>
+        <rdfs:label xml:lang="pt-br">enfermeiro</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rywnog0r5ERl0kaWIw8k31 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rywnog0r5ERl0kaWIw8k31">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCA3CV8nlI6CDndRvnGQ5hM"/>
+        <rdfs:label xml:lang="pt-br">acre</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R3YIBkcOAiATuwYO5t85oW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R3YIBkcOAiATuwYO5t85oW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">ação de combate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R70zEhOF48Our1x5qdDLA0o -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R70zEhOF48Our1x5qdDLA0o">
+        <rdfs:label xml:lang="pt-br">mídia comunista</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R71AWXXxvKHhABZCEmtDsTJ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R71AWXXxvKHhABZCEmtDsTJ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RNKdupyQIDtZ2sJTYlobrA"/>
+        <rdfs:label xml:lang="pt-br">quarentena prolongada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R72L6TgfMha84OmdhJhH55O -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R72L6TgfMha84OmdhJhH55O">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9eSwpMS2kHWpswYfTFcisN"/>
+        <rdfs:label xml:lang="pt-br">suspeito de contaminação</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R79bIbNYtfheynbPzHeyxBz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R79bIbNYtfheynbPzHeyxBz">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9yCBKTw0y3rrKQt9S3Jxle"/>
+        <rdfs:label xml:lang="pt-br">bh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Acllwot2bxCR1UabHWGcl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7Acllwot2bxCR1UabHWGcl">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh"/>
+        <rdfs:label xml:lang="pt-br">confinamento</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7IcVm34Vb6akiNM35J2QgT -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7IcVm34Vb6akiNM35J2QgT">
+        <rdfs:label xml:lang="pt-br">pessoa recuperada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7JtqwxK4eWrejRC7a1bMs9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7JtqwxK4eWrejRC7a1bMs9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh"/>
+        <rdfs:label xml:lang="pt-br">lockdown</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Pq8NJw4fZF7kckDilY9fC -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7Pq8NJw4fZF7kckDilY9fC">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RbAHFTPjMwjmQWGgTxl8uA"/>
+        <rdfs:label xml:lang="pt-br">lei de acesso à informação</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7STYCUwoI1gIMIpO3GbARx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7STYCUwoI1gIMIpO3GbARx">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R94Yeotxk5YbL19UXhZ2a6b"/>
+        <rdfs:label xml:lang="pt-br">relato de pandemia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Vrr8ocbxuv46h0CTjXnSU -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7Vrr8ocbxuv46h0CTjXnSU">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBomI1C1DmMDtjmNdauFLx4"/>
+        <rdfs:label xml:lang="pt-br">helder</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7igrHNoA8R1kTQ7fGVf3rt -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7igrHNoA8R1kTQ7fGVf3rt">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh"/>
+        <rdfs:label xml:lang="pt-br">isolamento</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7lGp8aY7G5oeU5NCfRf8MA -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7lGp8aY7G5oeU5NCfRf8MA">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jzpUOZHzXqG23Eyd141Hj"/>
+        <rdfs:label xml:lang="pt-br">parcela do auxílio emergencial</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7lfbWrgkUBgO1BNmW4O13L -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7lfbWrgkUBgO1BNmW4O13L">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8yOYM5FgSzGsbQ7gw4OHAz"/>
+        <rdfs:label xml:lang="pt-br">hospital de referência</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7nXwBTKX43Iz2dPzmFgIXH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7nXwBTKX43Iz2dPzmFgIXH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZcKKp6lYwQJkzMzpFYBv9"/>
+        <rdfs:label xml:lang="pt-br">falta de teste</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7sRWQt2yTm9l4EOHHkw8e8 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7sRWQt2yTm9l4EOHHkw8e8">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">evolução do caso</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7xDgrc7fDZE5xzf526SPWH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7xDgrc7fDZE5xzf526SPWH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58"/>
+        <rdfs:label xml:lang="pt-br">paciente diagnosticado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R85MNJh44fNfOj6al0hlpLu -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R85MNJh44fNfOj6al0hlpLu">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDej3tfyadS3rnYE1Xuvnnl"/>
+        <rdfs:label xml:lang="pt-br">violência doméstica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8834tTyIqS5bxyXHvA9UgY -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8834tTyIqS5bxyXHvA9UgY">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh"/>
+        <rdfs:label xml:lang="pt-br">lock down</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8FFOR45GC3lxU71GQ1SgQT -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8FFOR45GC3lxU71GQ1SgQT">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7m4phFTnPTbWR8rUJ3NiAh"/>
+        <rdfs:label xml:lang="pt-br">unidade básica de saúde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Hi2lglQb7pLTdKqTWRbqg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8Hi2lglQb7pLTdKqTWRbqg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58"/>
+        <rdfs:label xml:lang="pt-br">paciente contaminado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8K0VJxLRdO6A6JLJ0ZWGmK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8K0VJxLRdO6A6JLJ0ZWGmK">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fL7pAzHroqiuBHLPrzULS"/>
+        <rdfs:label xml:lang="pt-br">bolsominio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Kz0t8eaXiy13m2dGJ3PkO -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8Kz0t8eaXiy13m2dGJ3PkO">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8YijBrBVoAoPgWowuseuvK"/>
+        <rdfs:label xml:lang="pt-br">sp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8M2KHRLLgLRQSCu9GNGVd8 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8M2KHRLLgLRQSCu9GNGVd8">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZcKKp6lYwQJkzMzpFYBv9"/>
+        <rdfs:label xml:lang="pt-br">testagem</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8O6egVweguhcUjUkVGGtJk -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8O6egVweguhcUjUkVGGtJk">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9eSwpMS2kHWpswYfTFcisN"/>
+        <rdfs:label xml:lang="pt-br">transmissão</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8TpchkEb6UXm65jFwiTIFY -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8TpchkEb6UXm65jFwiTIFY">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governo do nordeste</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ZbzWLKIFq3YLrGZPTzQa3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8ZbzWLKIFq3YLrGZPTzQa3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governo de são paulo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8fuzHKYMY0iwf82TxSYw4b -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8fuzHKYMY0iwf82TxSYw4b">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh"/>
+        <rdfs:label xml:lang="pt-br">projeção de isolamento</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8hJT0GSrtoRpEsa0ILNQEj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8hJT0GSrtoRpEsa0ILNQEj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8yOYM5FgSzGsbQ7gw4OHAz"/>
+        <rdfs:label xml:lang="pt-br">hospital temporário</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ixbr7ydEL6ImhuKI8Wad -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8ixbr7ydEL6ImhuKI8Wad">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8yOYM5FgSzGsbQ7gw4OHAz"/>
+        <rdfs:label xml:lang="pt-br">hospital risoleta neves</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8kb4eS9RGAjIbn7qz3hjfb -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8kb4eS9RGAjIbn7qz3hjfb">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RQTYG92OKtV0QVOtlUcmK8"/>
+        <rdfs:label xml:lang="pt-br">ceara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8kwPn1DSedF3HI5EpjPuga -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8kwPn1DSedF3HI5EpjPuga">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R5TSAF1byeQI7TMy8gMVvB"/>
+        <rdfs:label xml:lang="pt-br">imprensa vermelha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8pM0ZikD35hFL8RFzNeTw9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8pM0ZikD35hFL8RFzNeTw9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8YijBrBVoAoPgWowuseuvK"/>
+        <rdfs:label xml:lang="pt-br">estado de sp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8qJmN8hhfqPnMMDJYr6lp4 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8qJmN8hhfqPnMMDJYr6lp4">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fL7pAzHroqiuBHLPrzULS"/>
+        <rdfs:label xml:lang="pt-br">bolsonero</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8qOx2Blg9FCA0u9wfzWB8b -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8qOx2Blg9FCA0u9wfzWB8b">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDej3tfyadS3rnYE1Xuvnnl"/>
+        <rdfs:label xml:lang="pt-br">feminícidio em casa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8qomskcyEmRDc3jClcvuyN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8qomskcyEmRDc3jClcvuyN">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8SthtK3BN8vQQjUqh57wf9"/>
+        <rdfs:label xml:lang="pt-br">morte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8z6Jj7406wTNaU1EnqIAKc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8z6Jj7406wTNaU1EnqIAKc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governo estadual</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R90FC3rD7C68olbyVBMaMnF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R90FC3rD7C68olbyVBMaMnF">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDmrIMpzFgbwCL564jsuznU"/>
+        <rdfs:label xml:lang="pt-br">estado do rio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R92rfqOmiJmltsZunmHHpUM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R92rfqOmiJmltsZunmHHpUM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">caso grave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R96nbxusiz7mjO5zJavGsrK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R96nbxusiz7mjO5zJavGsrK">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8SthtK3BN8vQQjUqh57wf9"/>
+        <rdfs:label xml:lang="pt-br">gente morrendo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R972WXTdUqLBZn9irFyESS3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R972WXTdUqLBZn9irFyESS3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">caso confirmado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9CyzUaGSdQ4tQSMQCftgsc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9CyzUaGSdQ4tQSMQCftgsc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RNKdupyQIDtZ2sJTYlobrA"/>
+        <rdfs:label xml:lang="pt-br">quarentena horizontal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9DxjBWeC4xKU9NqoYU1RzO -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9DxjBWeC4xKU9NqoYU1RzO">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">caso identificado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9IqCw5YKC2yzgTx9MZSmFJ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9IqCw5YKC2yzgTx9MZSmFJ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58"/>
+        <rdfs:label xml:lang="pt-br">paciente infectado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9PSkwd2iqO3HK9NgTd8leB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9PSkwd2iqO3HK9NgTd8leB">
+        <rdfs:label xml:lang="pt-br">risco de infecção</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Qxjl0zHq1BniD6eu5TQ6L -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9Qxjl0zHq1BniD6eu5TQ6L">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RWJ09Bhcjz8TdHSKmbRnD4"/>
+        <rdfs:label xml:lang="pt-br">onu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9TDYVPjLzD8UbMLls6fk9C -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9TDYVPjLzD8UbMLls6fk9C">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/REaoTErOOfR8rgTGLz3QQt"/>
+        <rdfs:label xml:lang="pt-br">plano de estímulo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9VEgTu3HPuIw6JwBOKwuco -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9VEgTu3HPuIw6JwBOKwuco">
+        <rdfs:label xml:lang="pt-br">número de leito</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9WPNPMkxQ9gPEO3lnuniOE -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9WPNPMkxQ9gPEO3lnuniOE">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R5TSAF1byeQI7TMy8gMVvB"/>
+        <rdfs:label xml:lang="pt-br">midia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9dxBNHYaBn6XhBfuWys31L -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9dxBNHYaBn6XhBfuWys31L">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governo de rondônia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9gRnbJTgQVA88b8kgth0NN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9gRnbJTgQVA88b8kgth0NN">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBTqoE9CabGlGofhXwrdyQJ"/>
+        <rdfs:label xml:lang="pt-br">doação de alimentos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9oGMR0dmk3Nf9CssXdzG5V -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9oGMR0dmk3Nf9CssXdzG5V">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58"/>
+        <rdfs:label xml:lang="pt-br">vítima</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9rrwoYQ180LTO3wjyc0Yko -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9rrwoYQ180LTO3wjyc0Yko">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZcKKp6lYwQJkzMzpFYBv9"/>
+        <rdfs:label xml:lang="pt-br">teste roubado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9yG3ke6h4yM718NO36yNpd -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9yG3ke6h4yM718NO36yNpd">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDej3tfyadS3rnYE1Xuvnnl"/>
+        <rdfs:label xml:lang="pt-br">surto de feminicídio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB0RnCZkOARVT3AYOEASEwi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB0RnCZkOARVT3AYOEASEwi">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">caso recuperado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB0pPCMmJfsONXG68HSG86I -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB0pPCMmJfsONXG68HSG86I">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">expansão do coronavírus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB1fIlRutZ6t2h1irzfn0or -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB1fIlRutZ6t2h1irzfn0or">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RWJ09Bhcjz8TdHSKmbRnD4"/>
+        <rdfs:label xml:lang="pt-br">organização das nações unidas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB3ztz54NfM216LwwhKzpXv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB3ztz54NfM216LwwhKzpXv">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDPjL1cScPCHW6Wn0BeHkNO"/>
+        <rdfs:label xml:lang="pt-br">witzel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB4zlZ423I95RBn8qmnGdl0 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB4zlZ423I95RBn8qmnGdl0">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDqRheV4jrZ1GpHQPtHl8lc"/>
+        <rdfs:label xml:lang="pt-br">soro anti corrupção</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB8MTD43iyQDetZde98tG7W -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB8MTD43iyQDetZde98tG7W">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7e2NXVegqPmHHSDA5aCsMV"/>
+        <rdfs:label xml:lang="pt-br">jornal americano</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB8dpWpTTs5qqMoDi7k5hOz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB8dpWpTTs5qqMoDi7k5hOz">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZcKKp6lYwQJkzMzpFYBv9"/>
+        <rdfs:label xml:lang="pt-br">comercialização de teste</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBBNj51iQCX0lwoKq3VLOdj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBBNj51iQCX0lwoKq3VLOdj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RLQAhC28c9RqYTn7d2o0m7"/>
+        <rdfs:label xml:lang="pt-br">herói da saúde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBBVmdbWAyqddomRXQJXEZg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBBVmdbWAyqddomRXQJXEZg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh"/>
+        <rdfs:label xml:lang="pt-br">fim do isolamento</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBDfX1A9WO2KcV5FmcDwT4l -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBDfX1A9WO2KcV5FmcDwT4l">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">medida normativa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBDwu7Ots9oQBJ08sbbKvyl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBDwu7Ots9oQBJ08sbbKvyl">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZcKKp6lYwQJkzMzpFYBv9"/>
+        <rdfs:label xml:lang="pt-br">teste rápido</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBIPIM4tEwa5qCpfnJfa018 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBIPIM4tEwa5qCpfnJfa018">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">covid-19</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBMZFIynwlZvG6HNGNsg5T9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBMZFIynwlZvG6HNGNsg5T9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R3d2zRVSaGyppryWNqCzvh"/>
+        <rdfs:label xml:lang="pt-br">mandeta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBPhvI0CVWAaAdlNnpqkBRl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBPhvI0CVWAaAdlNnpqkBRl">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9eSwpMS2kHWpswYfTFcisN"/>
+        <rdfs:label xml:lang="pt-br">risco de transmissão</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBPvvP6uP0GTYdGtHqNTb8c -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBPvvP6uP0GTYdGtHqNTb8c">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9eSwpMS2kHWpswYfTFcisN"/>
+        <rdfs:label xml:lang="pt-br">transmissor assintomático</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBQMzhzKurEbPWjaIYcOxUx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBQMzhzKurEbPWjaIYcOxUx">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RslOOJbRp4QZCFuQL6oaNI"/>
+        <rdfs:label xml:lang="pt-br">redução de salário</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBWKTRVvjsEuimj8esEjGET -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBWKTRVvjsEuimj8esEjGET">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">novo coronavírus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBWeuZAHcxQhakYZvGJZ9V -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBWeuZAHcxQhakYZvGJZ9V">
+        <rdfs:label xml:lang="pt-br">distanciamento social</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBYUbzcdWkndp0OYKNfRa59 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBYUbzcdWkndp0OYKNfRa59">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R5TSAF1byeQI7TMy8gMVvB"/>
+        <rdfs:label xml:lang="pt-br">mídia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBcfvABsDahXhJc6NMcq2fp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBcfvABsDahXhJc6NMcq2fp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBV6QYmGlcpjdhAZrnhitur"/>
+        <rdfs:label xml:lang="pt-br">queda de receita</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBdV0gcxUiGy10Fn6crdMrT -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBdV0gcxUiGy10Fn6crdMrT">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fL7pAzHroqiuBHLPrzULS"/>
+        <rdfs:label xml:lang="pt-br">zé ninguém de país emergente</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBfhmfn8JivysRXOBg6Sg5f -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBfhmfn8JivysRXOBg6Sg5f">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8yOYM5FgSzGsbQ7gw4OHAz"/>
+        <rdfs:label xml:lang="pt-br">hospital de campanha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBn4tuXUp5fEyuKPvTIVjzV -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBn4tuXUp5fEyuKPvTIVjzV">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">caso de covid-19</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBuopbks3dSzXOvUsmPFWGH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBuopbks3dSzXOvUsmPFWGH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governo bolsonaro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBzYuDqETtfIB8byEKqByMs -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBzYuDqETtfIB8byEKqByMs">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB6KUA9Km1pF5dtZTvUiQ61"/>
+        <rdfs:label xml:lang="pt-br">fake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC5CO6JPP93xVi4dv34zNFF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC5CO6JPP93xVi4dv34zNFF">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governo do pará</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCG6Kn5fqAehvS0B4HnfnqJ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCG6Kn5fqAehvS0B4HnfnqJ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">novo caso</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCGbe59XcnKFjtdW4n61OKG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCGbe59XcnKFjtdW4n61OKG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">medida de combate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCJ5ri4RNcMRyHGpUyOy7Cs -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCJ5ri4RNcMRyHGpUyOy7Cs">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RWJ09Bhcjz8TdHSKmbRnD4"/>
+        <rdfs:label xml:lang="pt-br">nações unidas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCKlTkPf6DKY1ATpVu204nk -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCKlTkPf6DKY1ATpVu204nk">
+        <rdfs:label xml:lang="pt-br">roubo de teste</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCOOn1Fm5u2LDCdxWz2HHxv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCOOn1Fm5u2LDCdxWz2HHxv">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCjjqTD4EruAMqR7emM6vST"/>
+        <rdfs:label xml:lang="pt-br">varal de máscara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCQHwZ3KlASopN3p7BJZcAc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCQHwZ3KlASopN3p7BJZcAc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governo de sp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCV4rWwAooBzjAUNYuhKxgJ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCV4rWwAooBzjAUNYuhKxgJ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCsRPWX405qlGVJ1g68NS4r"/>
+        <rdfs:label xml:lang="pt-br">índice de cura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCeVRM3f7kofv6HvZECgDAl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCeVRM3f7kofv6HvZECgDAl">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">minimizar o coronavírus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RClQAk9btJVrfKhtjjX4SD5 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RClQAk9btJVrfKhtjjX4SD5">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZcKKp6lYwQJkzMzpFYBv9"/>
+        <rdfs:label xml:lang="pt-br">teste de anticorpos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCobIWrt18eKoNCpWQ7atVk -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCobIWrt18eKoNCpWQ7atVk">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCjjqTD4EruAMqR7emM6vST"/>
+        <rdfs:label xml:lang="pt-br">máscara de alta proteção</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCrINOuazJBEKCc8CssMmuv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCrINOuazJBEKCc8CssMmuv">
+        <rdfs:label xml:lang="pt-br">distanciamento social intermitente</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCrfxp7tcgO0LoPhYbqm4iN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCrfxp7tcgO0LoPhYbqm4iN">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBMXnZYpzCzPABnu0dpPxVg"/>
+        <rdfs:label xml:lang="pt-br">live nxzero</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCsy31jQfc2uqnVyh8MCpRt -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCsy31jQfc2uqnVyh8MCpRt">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDjsa1Q2u9Gz5uqHPS9ZQck"/>
+        <rdfs:label xml:lang="pt-br">mp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCtzDKP0SH4UTBUcWWrkl5S -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCtzDKP0SH4UTBUcWWrkl5S">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDa3C5liOm92ghUpp1rC5sc"/>
+        <rdfs:label xml:lang="pt-br">capacidade de leito</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDEmClHHiI3ZcBgP8TNIgZ9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDEmClHHiI3ZcBgP8TNIgZ9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8SthtK3BN8vQQjUqh57wf9"/>
+        <rdfs:label xml:lang="pt-br">vítima fatal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDG2XPh2YzQ3PeVREnyIHZj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDG2XPh2YzQ3PeVREnyIHZj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCjjqTD4EruAMqR7emM6vST"/>
+        <rdfs:label xml:lang="pt-br">máscara em estátua da cidade</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDH7rLbQmnAyYxORH6CCuL0 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDH7rLbQmnAyYxORH6CCuL0">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58"/>
+        <rdfs:label xml:lang="pt-br">paciente recuperado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDKZnWP0NROJZ1KHBwjfrFr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDKZnWP0NROJZ1KHBwjfrFr">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh"/>
+        <rdfs:label xml:lang="pt-br">estratégia de isolamento</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDKxUAgwlxhP1TfWOoEVvV -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDKxUAgwlxhP1TfWOoEVvV">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7Nkh5BNzLlTIMRk9DOJOhi"/>
+        <rdfs:label xml:lang="pt-br">organização mundial da saúde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDLGTfYc8jsdgYzAVsVLEFx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDLGTfYc8jsdgYzAVsVLEFx">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">combate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDMm9exGJh3duynUFnrvQcZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDMm9exGJh3duynUFnrvQcZ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9yCBKTw0y3rrKQt9S3Jxle"/>
+        <rdfs:label xml:lang="pt-br">bhte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDRuz1lPNgykmLEn2nLYAs4 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDRuz1lPNgykmLEn2nLYAs4">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rsu321ORwTMkJgsnrkT0xs"/>
+        <rdfs:label xml:lang="pt-br">remédio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDTymX35EdKDwpP7HfoDWAx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDTymX35EdKDwpP7HfoDWAx">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">ação preventiva</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDXE3uRAn76JhLQN3QexyNd -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDXE3uRAn76JhLQN3QexyNd">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">gripezinha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDaBx8Pd3suqPAqcqbg49C7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDaBx8Pd3suqPAqcqbg49C7">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">caso de coronavírus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDcXoNzHrzE2nWX5Pzfcjpq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDcXoNzHrzE2nWX5Pzfcjpq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7Nkh5BNzLlTIMRk9DOJOhi"/>
+        <rdfs:label xml:lang="pt-br">oms</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDg0x8xXmPSPNY2ez1KdIHX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDg0x8xXmPSPNY2ez1KdIHX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">alarmismo do coronavírus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDpd3lUyHvTBuTvBqbNaESh -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDpd3lUyHvTBuTvBqbNaESh">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDmrIMpzFgbwCL564jsuznU"/>
+        <rdfs:label xml:lang="pt-br">rj</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDqC0Ntwqp1VS7VFEv9KMal -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDqC0Ntwqp1VS7VFEv9KMal">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">caso notificado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDtVLn0sidMO6LqNptdV8qF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDtVLn0sidMO6LqNptdV8qF">
+        <rdfs:label xml:lang="pt-br">tentativa de derrubar o bolsonaro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDwoCR5MKJe7IPzZafm8ERM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDwoCR5MKJe7IPzZafm8ERM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZcKKp6lYwQJkzMzpFYBv9"/>
+        <rdfs:label xml:lang="pt-br">exame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDwsJBlisMbRQKm7NRjxy8L -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDwsJBlisMbRQKm7NRjxy8L">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh"/>
+        <rdfs:label xml:lang="pt-br">confinamento residencial</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDwyTLfVPSGyS5KHtr834qZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDwyTLfVPSGyS5KHtr834qZ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT0ovgWw9Qa8xxvaBlDdUh"/>
+        <rdfs:label xml:lang="pt-br">isolamento social</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDymEymqXEb8aozDIwzFqvu -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDymEymqXEb8aozDIwzFqvu">
+        <rdfs:label xml:lang="pt-br">governo do rio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDzVl6ytzSUXHVbtdldbNd8 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDzVl6ytzSUXHVbtdldbNd8">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fL7pAzHroqiuBHLPrzULS"/>
+        <rdfs:label xml:lang="pt-br">família bolsonaro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDzrNVmKYIlNl3lrXJYqybJ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDzrNVmKYIlNl3lrXJYqybJ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RncY1qSUEhTDcQ12xmj2H5"/>
+        <rdfs:label xml:lang="pt-br">médico voluntário</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RFLYlmVQqy6fatdb3mvnEw -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RFLYlmVQqy6fatdb3mvnEw">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RNKdupyQIDtZ2sJTYlobrA"/>
+        <rdfs:label xml:lang="pt-br">quarentena domiciliar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RFREUlzCiA3lA3rBMsncBC -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RFREUlzCiA3lA3rBMsncBC">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">propagação do vírus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJD52ciKbqyJQCVDXRHliz -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RJD52ciKbqyJQCVDXRHliz">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governo federal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJl7pp99t46yot7xpvqXcW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RJl7pp99t46yot7xpvqXcW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8Ig2wWnSbeeBn1DeeVReoR"/>
+        <rdfs:label xml:lang="pt-br">pesquisador</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLv88UX9qBap3ZFkC811hc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RLv88UX9qBap3ZFkC811hc">
+        <rdfs:label xml:lang="pt-br">recuperado da doença</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RPPrWRmTE1dbCswuhwgCbw -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RPPrWRmTE1dbCswuhwgCbw">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9sSYRNPlVvWCLACXmCrgsc"/>
+        <rdfs:label xml:lang="pt-br">movimento dos trabalhadores rurais sem terra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RRPjV4zb9TFollKYLGCDYp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RRPjV4zb9TFollKYLGCDYp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8yOYM5FgSzGsbQ7gw4OHAz"/>
+        <rdfs:label xml:lang="pt-br">hospital estadual</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RT2U6feuCsb2oMKgn9MFoJ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RT2U6feuCsb2oMKgn9MFoJ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDej3tfyadS3rnYE1Xuvnnl"/>
+        <rdfs:label xml:lang="pt-br">morte de mulher</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTzGDbtDS7BO47j74fprHU -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RTzGDbtDS7BO47j74fprHU">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">caso de coronavirus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RWBGdvqwlFwNienvZokd1L -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RWBGdvqwlFwNienvZokd1L">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8SthtK3BN8vQQjUqh57wf9"/>
+        <rdfs:label xml:lang="pt-br">taxa de mortalidade</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RXvO3QzMo8OYARhCIa0Ksa -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RXvO3QzMo8OYARhCIa0Ksa">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R71dBJcUPVho91MWP9lyRhX"/>
+        <rdfs:label xml:lang="pt-br">doença do coração</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RbotsSlphShIG13QleZKwD -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RbotsSlphShIG13QleZKwD">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RNKdupyQIDtZ2sJTYlobrA"/>
+        <rdfs:label xml:lang="pt-br">quarentena vertical</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rd2VDqQ969xnXDcMXQIbYr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rd2VDqQ969xnXDcMXQIbYr">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fL7pAzHroqiuBHLPrzULS"/>
+        <rdfs:label xml:lang="pt-br">bolsomorte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RgDC6Dp3wKaFyyo5FVvYgW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RgDC6Dp3wKaFyyo5FVvYgW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8SthtK3BN8vQQjUqh57wf9"/>
+        <rdfs:label xml:lang="pt-br">obito</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rgb09S71O1WLgIOTNhD5Yu -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rgb09S71O1WLgIOTNhD5Yu">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8yOYM5FgSzGsbQ7gw4OHAz"/>
+        <rdfs:label xml:lang="pt-br">hospital raul gazola</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RgkJ2eLSMcznQV7Sqy2QWY -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RgkJ2eLSMcznQV7Sqy2QWY">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">minimizando o coronavírus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RgvLeLEIAOhpaBRA9bwVaP -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RgvLeLEIAOhpaBRA9bwVaP">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58"/>
+        <rdfs:label xml:lang="pt-br">paciente suspeito</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RhgQ95qcboWOIjieNgrIHF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RhgQ95qcboWOIjieNgrIHF">
+        <rdfs:label xml:lang="pt-br">governo do rj</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RiYEl2EgcUzHwd3dd2iIbt -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RiYEl2EgcUzHwd3dd2iIbt">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCjjqTD4EruAMqR7emM6vST"/>
+        <rdfs:label xml:lang="pt-br">máscara caseira</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Riew1kgtTBqliGMHLolMxX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Riew1kgtTBqliGMHLolMxX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fL7pAzHroqiuBHLPrzULS"/>
+        <rdfs:label xml:lang="pt-br">bolsonaro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RkirfBGqrFKv5GsLJ0RMjn -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RkirfBGqrFKv5GsLJ0RMjn">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDhLCtE0kmkLxpeCE9qAUbn"/>
+        <rdfs:label xml:lang="pt-br">mp910</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rn5dRx0nvmUNBCJdCF2BGX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rn5dRx0nvmUNBCJdCF2BGX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCnEX9mHpy3gY46qNAbpda1"/>
+        <rdfs:label xml:lang="pt-br">video conferência</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Roke4wbLYGwvXSMZBnjdiq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Roke4wbLYGwvXSMZBnjdiq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDnJrft6SCrA11isuZlcaPa"/>
+        <rdfs:label xml:lang="pt-br">setores da saúde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rp2S4mcBxAxaG7FAE9Bqxb -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rp2S4mcBxAxaG7FAE9Bqxb">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7e2NXVegqPmHHSDA5aCsMV"/>
+        <rdfs:label xml:lang="pt-br">washington post</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RpfUgMZWpSvp55Ts14la8f -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RpfUgMZWpSvp55Ts14la8f">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8SthtK3BN8vQQjUqh57wf9"/>
+        <rdfs:label xml:lang="pt-br">avalanche de cadáveres</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RqZHuTNv9Z1zIfn94tcinl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RqZHuTNv9Z1zIfn94tcinl">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RhJogaEIB1XNpCj6NAkdIO"/>
+        <rdfs:label xml:lang="pt-br">hospedeiro do coronavírus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RsOC0B9yRKQ2pNfjxMzRbL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RsOC0B9yRKQ2pNfjxMzRbL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8jzpUOZHzXqG23Eyd141Hj"/>
+        <rdfs:label xml:lang="pt-br">auxílio financeiro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RsVVBnD5SyZRnoRmedcypr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RsVVBnD5SyZRnoRmedcypr">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBSIFznMnEfYHwpljNSa4df"/>
+        <rdfs:label xml:lang="pt-br">medida preventíva</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rt44BX3LTc5rTGt4ziM9NB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rt44BX3LTc5rTGt4ziM9NB">
+        <rdfs:label xml:lang="pt-br">pessoa curada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RuDUuEy0PtcUkGL3xvThnu -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RuDUuEy0PtcUkGL3xvThnu">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9m13pleEFz6HCTRQ8f5yYn"/>
+        <rdfs:label xml:lang="pt-br">caso suspeito</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RvooaDThPieFm0Xu5fV03i -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RvooaDThPieFm0Xu5fV03i">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB5QAn11hpQ1Fm8xAwbKy58"/>
+        <rdfs:label xml:lang="pt-br">paciente curado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rw06K9WVkS5a76Ddc9b6o8 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rw06K9WVkS5a76Ddc9b6o8">
+        <rdfs:label xml:lang="pt-br">diminuição de salário</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Ry2D5tblcJLmNTM3BkVMlh -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Ry2D5tblcJLmNTM3BkVMlh">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8yOYM5FgSzGsbQ7gw4OHAz"/>
+        <rdfs:label xml:lang="pt-br">hospital particular</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RzvxMMNpcuLoJoWazt7ja2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RzvxMMNpcuLoJoWazt7ja2">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9cn9lmAYHjI0NtMXiK67q4"/>
+        <rdfs:label xml:lang="pt-br">governo da nova zelândia</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
