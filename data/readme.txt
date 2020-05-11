@@ -1,4 +1,4 @@
-Here, We will find the following set of data:
+Here, We will find the following dataset:
 
 1. Taxonomy of aspects in owl, rdf and csv format.
 2. OPCovid-br dataset labeled with polairty (positive and negative) and fine-grained opinion (aspect) identification.
