@@ -10,7 +10,7 @@ api = tweepy.API(auth)
 
 
 tweets = api.search(q="coronavírus", lang="pt", count=2000, tweet_mode='extended')
-i = 37
+i = 1
 data = {}
 for tweet in tweets:
     try:
