@@ -27,4 +27,4 @@ BIBTEX
 
 ACKNOWLEDGEMENT
 
-The authors are grateful to CAPES, FAPESP and USP Research Office for supporting this work.
+The authors are grateful to CAPES for supporting this work.
