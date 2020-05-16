@@ -1,1 +1,84 @@
+----------- DecisionTreeClassifier --------------
+Accuracy 0.7533333333333333
+Classification report
+                  precision    recall  f1-score   support
+
+ Político-social       0.61      0.68      0.64        25
+        economia       0.00      0.00      0.00         6
+educação-ciência       0.67      1.00      0.80         2
+     localização       0.62      0.65      0.63        20
+           saúde       0.84      0.84      0.84        97
+
+        accuracy                           0.75       150
+       macro avg       0.55      0.63      0.58       150
+    weighted avg       0.73      0.75      0.74       150
+
+
+
+----------- NaiveBayesClassifier ------------------------
+Accuracy 0.5
+Classification report
+                  precision    recall  f1-score   support
+
+ Político-social       0.47      0.72      0.57        25
+        economia       0.25      0.33      0.29         6
+educação-ciência       0.05      1.00      0.09         2
+     localização       0.50      0.30      0.37        20
+           saúde       0.94      0.48      0.64        97
+
+        accuracy                           0.50       150
+       macro avg       0.44      0.57      0.39       150
+    weighted avg       0.76      0.50      0.57       150
+
+
+
+----------- SVM - SVC(kernel='poly', degree=2) --------------
+Accuracy 0.7666666666666667
+Classification report
+                  precision    recall  f1-score   support
+
+ Político-social       0.73      0.44      0.55        25
+        economia       0.00      0.00      0.00         6
+educação-ciência       0.00      0.00      0.00         2
+     localização       0.80      0.60      0.69        20
+           saúde       0.77      0.95      0.85        97
+
+        accuracy                           0.77       150
+       macro avg       0.46      0.40      0.42       150
+    weighted avg       0.72      0.77      0.73       150
+
+
+
+----------- SVM - LinearSVC -------------------------------
+Accuracy 0.7866666666666666
+Classification report
+                  precision    recall  f1-score   support
+
+ Político-social       0.79      0.60      0.68        25
+        economia       0.00      0.00      0.00         6
+educação-ciência       0.00      0.00      0.00         2
+     localização       0.79      0.55      0.65        20
+           saúde       0.79      0.95      0.86        97
+
+        accuracy                           0.79       150
+       macro avg       0.47      0.42      0.44       150
+    weighted avg       0.74      0.79      0.76       150
+
+
+
+----------- SVM - SVC(kernel='sigmoid') --------------
+Accuracy 0.7266666666666667
+Classification report
+                  precision    recall  f1-score   support
+
+ Político-social       0.78      0.56      0.65        25
+        economia       0.00      0.00      0.00         6
+educação-ciência       0.00      0.00      0.00         2
+     localização       0.55      0.30      0.39        20
+           saúde       0.74      0.92      0.82        97
+
+        accuracy                           0.73       150
+       macro avg       0.41      0.36      0.37       150
+    weighted avg       0.68      0.73      0.69       150
+
 
