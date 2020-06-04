@@ -8,15 +8,15 @@ We created machine learning classifiers for fine-grained opinion and polarity cl
 
 CITING
 
-Vargas, F.A., Rocha, P.R. and Santos, R.S.S. (2020). Identifying fine-grained opinion and classifying polarity of twitter data on the Covid-19. 
+Vargas, F.A.,Santos, R.S.S. and Rocha, P.R. (2020). Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic. 
 
 BIBTEX
 
 @inproceedings{,
   author    = {Francielle A. Vargas and
-               Pedro Regattieri Rocha and
-               Rodolfo Sanches Saraiva Dos Santos},
-  title     = {Identifying fine-grained opinion and classifying polarity of twitter data on the Covid-19},
+               Rodolfo Sanches Saraiva Dos Santos and
+               Pedro Regattieri Rocha},
+  title     = {Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic},
   booktitle = {},
   pages     = {},
   year      = {2020},
