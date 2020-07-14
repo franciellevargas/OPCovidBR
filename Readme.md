@@ -12,15 +12,15 @@ Vargas, F.A.,Santos, R.S.S. and Rocha, P.R. (2020). Identifying fine-grained opi
 
 BIBTEX
 
-@inproceedings{,
-  author    = {Francielle A. Vargas and
+@inproceedings{VargasEtAll2020,
+  author    = {Francielle Alves Vargas and
                Rodolfo Sanches Saraiva Dos Santos and
                Pedro Regattieri Rocha},
   title     = {Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic},
-  booktitle = {},
-  pages     = {},
+  booktitle = {Proceedings of the 9th Brazilian Conference on Intelligent Systems (BRACIS 2020)},
+  pages     = {01-10},
   year      = {2020},
-  address   = {},
+  address   = {Rio Grande, RS, Brazil},
   crossref  = {},
 }
 
