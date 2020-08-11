@@ -220,7 +220,7 @@ weighted avg       0.54      0.57      0.54       600
 
 
 
-4. Experimento - Treinamento com ReLI + TweetSentBR + CovidOptions.BR (.25 separado para teste)
+4. Experimento - Treinamento com ReLI + TweetSentBR + CovidOptions.BR (.30 separado para teste+validação)
 ----------- DecisionTreeClassifier --------------
 Accuracy 0.54
 Classification report
@@ -292,9 +292,7 @@ weighted avg       0.60      0.62      0.60       150
 
 
 
-
-
-5. Experimento - CovidOptions.BR (.25 separado para teste)
+5. Experimento - CovidOptions.BR (.30 separado para teste+validação)
 ----------- DecisionTreeClassifier --------------
 Accuracy 0.5133333333333333
 Classification report
@@ -362,96 +360,4 @@ Classification report
     accuracy                           0.49       150
    macro avg       0.44      0.44      0.44       150
 weighted avg       0.48      0.49      0.49       150
-
-
-
-
-
-
-EXTRA. Experimento - detectar qual é o assunto (educação,saúde,politico-social,etc)
------------ DecisionTreeClassifier --------------
-Accuracy 0.76
-Classification report
-                  precision    recall  f1-score   support
-
- Político-social       0.70      0.68      0.69        31
-        economia       1.00      0.17      0.29         6
-educação-ciência       0.50      0.67      0.57         3
-     localização       0.54      0.74      0.62        19
-           saúde       0.85      0.84      0.84        91
-
-        accuracy                           0.76       150
-       macro avg       0.72      0.62      0.60       150
-    weighted avg       0.78      0.76      0.76       150
-
-
-
------------ NaiveBayesClassifier --------------
-Accuracy 0.5266666666666666
-Classification report
-                  precision    recall  f1-score   support
-
- Político-social       0.46      0.68      0.55        31
-        economia       0.50      0.33      0.40         6
-educação-ciência       0.08      1.00      0.15         3
-     localização       0.58      0.58      0.58        19
-           saúde       0.93      0.46      0.62        91
-
-        accuracy                           0.53       150
-       macro avg       0.51      0.61      0.46       150
-    weighted avg       0.76      0.53      0.58       150
-
-
-
------------ SVM - SVC(kernel='poly', degree=2) --------------
-Accuracy 0.7
-Classification report
-                  precision    recall  f1-score   support
-
- Político-social       0.74      0.45      0.56        31
-        economia       0.00      0.00      0.00         6
-educação-ciência       0.00      0.00      0.00         3
-     localização       0.44      0.42      0.43        19
-           saúde       0.73      0.91      0.81        91
-
-        accuracy                           0.70       150
-       macro avg       0.38      0.36      0.36       150
-    weighted avg       0.65      0.70      0.66       150
-
-
-
------------ SVM - LinearSVC --------------
-Accuracy 0.72
-Classification report
-                  precision    recall  f1-score   support
-
- Político-social       0.68      0.61      0.64        31
-        economia       0.00      0.00      0.00         6
-educação-ciência       0.00      0.00      0.00         3
-     localização       0.54      0.37      0.44        19
-           saúde       0.75      0.90      0.82        91
-
-        accuracy                           0.72       150
-       macro avg       0.39      0.38      0.38       150
-    weighted avg       0.66      0.72      0.69       150
-
-
-
------------ SVM - SVC(kernel='sigmoid') --------------
-Accuracy 0.6933333333333334
-Classification report
-                  precision    recall  f1-score   support
-
- Político-social       0.68      0.61      0.64        31
-        economia       0.00      0.00      0.00         6
-educação-ciência       0.00      0.00      0.00         3
-     localização       0.50      0.32      0.39        19
-           saúde       0.72      0.87      0.79        91
-
-        accuracy                           0.69       150
-       macro avg       0.38      0.36      0.36       150
-    weighted avg       0.64      0.69      0.66       150
-
-
-
 
