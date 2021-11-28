@@ -26,7 +26,3 @@ BIBTEX
   crossref  = {http://bracis2020.c3.furg.br/acceptedPapers.html},
 }
 
-
-ACKNOWLEDGEMENT
-
-The authors are grateful to CAPES for supporting this work.
