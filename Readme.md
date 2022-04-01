@@ -1,7 +1,7 @@
 ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) 
 ![SSC-logo-300x171](https://github.com/francielleavargas/HateBR/blob/main/.github/dcc-logo.jpg) 
 
-# OPCovid-BR : Aspect-Based Sentiment Analysis on Covid-19 Twitter Data in Brazilian Portuguese
+# OPCovid-BR : Covid-19 Aspect-Based Sentiment Analysis on Twitter Data in Brazilian Portuguese
 
 <p align="justify"> The OPCovid-Br is the first dataset of twitter data annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 1.800 twitters during the COVID-19 pandemic and annotated the fine-grained opinions for each twitter, as well as the binary document polarity (positive or negative). </p>
 
