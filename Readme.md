@@ -4,9 +4,32 @@
 
 <p align="justify"> The OPCovid-Br is the first dataset of twitter data annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 1.800 twitters during the COVID-19 pandemic and annotated the fine-grained opinions for each twitter, as well as the binary document polarity (positive or negative). </p>
 
+<div align="center">
+<table> 
+<tr><th>Offensive Language</th><th>Offensiveness Levels</th><th>Hate Speech</th></tr>
+<tr><td>
+
+|class|label|total|
+|--|--|--|  
+|offensive|1|3,500| 
+|non-offensive|0|3,500| 
+
+</td><td>
+
+|class|label|total|
+|--|--|--|
+|highly|3|778|
+|moderately|2|1,044|
+|slightly|1|1,678|
+|non-offensive|0|3,500|
+  
+</td><td>
+
+</td></tr></table>
 
 <p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy in order to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese Language. </p>
 
+Link for the paper: https://link.springer.com/chapter/10.1007/978-3-030-61377-8_35
 
 CITING
 
@@ -28,4 +51,4 @@ BIBTEX
 }
 
 
-Link for the paper: https://link.springer.com/chapter/10.1007/978-3-030-61377-8_35
+
