@@ -2,10 +2,10 @@
 
 # OPCovid-BR : Aspect-Based Sentiment Analysis on Covid-19 Twitter Data in Brazilian Portuguese
 
-<p align="justify"> The OPCovid-Br is the first dataset of twitter data annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 1.800 twitters during the COVID-19 pandemic and annotated the fine-grained opinions for each twitter, as well as the binary document polarity (positive or negative).
+<p align="justify"> The OPCovid-Br is the first dataset of twitter data annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 1.800 twitters during the COVID-19 pandemic and annotated the fine-grained opinions for each twitter, as well as the binary document polarity (positive or negative). </p>
 
 
-We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy in order to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese Language. </p>
+We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy in order to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese Language. 
 
 
 CITING
