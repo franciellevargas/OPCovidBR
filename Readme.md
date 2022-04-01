@@ -35,7 +35,7 @@
  
 CITING
 
-<p align="justify"> Vargas, F.A.,Santos, R.S.S. and Rocha, P.R. (2020). Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic. Proceedings of the 9th Brazilian Conference on Intelligent Systems (BRACIS 2020), Rio Grande, RS, Brazil. </p>
+<p align="justify"> Vargas, F.A., Dos Santos, R.S.S., Rocha, P.R. (2020). Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic. In: Cerri, R., Prati, R.C. (eds) Intelligent Systems. BRACIS 2020. Lecture Notes in Computer Science, vol 12319. Springer, Cham. https://doi.org/10.1007/978-3-030-61377-8_35 </p>
 
 Link for the paper: https://link.springer.com/chapter/10.1007/978-3-030-61377-8_35
   
