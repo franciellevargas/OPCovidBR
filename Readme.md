@@ -1,4 +1,5 @@
 ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) 
+![SSC-logo-300x171](https://github.com/francielleavargas/HateBR/blob/main/.github/dcc-logo.jpg) 
 
 # OPCovid-BR : Aspect-Based Sentiment Analysis on Covid-19 Twitter Data in Brazilian Portuguese
 
@@ -18,25 +19,26 @@
 </td><td>
 
 |class|label|total|
-|--|--|--|
-||||
-||||
-||||
-||||
+|--|--|--|  
+|politica |1|| 
+|health   |2||
+|economic |3||
+|other    |4||
   
 </td><td>
 
 </td></tr></table>
-
+<\div>
+  
 <p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy in order to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese Language. </p>
 
-Link for the paper: https://link.springer.com/chapter/10.1007/978-3-030-61377-8_35
-
+ 
 CITING
 
 <p align="justify"> Vargas, F.A.,Santos, R.S.S. and Rocha, P.R. (2020). Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic. Proceedings of the 9th Brazilian Conference on Intelligent Systems (BRACIS 2020), Rio Grande, RS, Brazil. </p>
 
-
+Link for the paper: https://link.springer.com/chapter/10.1007/978-3-030-61377-8_35
+  
 BIBTEX
 
 @inproceedings{VargasEtAll2020,
