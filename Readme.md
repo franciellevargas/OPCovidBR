@@ -4,24 +4,25 @@
 
 <p align="justify"> The OPCovid-Br is the first dataset of twitter data annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 1.800 twitters during the COVID-19 pandemic and annotated the fine-grained opinions for each twitter, as well as the binary document polarity (positive or negative). </p>
 
+
 <div align="center">
 <table> 
-<tr><th>Offensive Language</th><th>Offensiveness Levels</th><th>Hate Speech</th></tr>
+  <tr><th>Polarity Classification</th><th>Fine-grained opinion groups</th></tr>
 <tr><td>
 
 |class|label|total|
 |--|--|--|  
-|offensive|1|3,500| 
-|non-offensive|0|3,500| 
+|positive|1|900| 
+|negative|0|900| 
 
 </td><td>
 
 |class|label|total|
 |--|--|--|
-|highly|3|778|
-|moderately|2|1,044|
-|slightly|1|1,678|
-|non-offensive|0|3,500|
+||||
+||||
+||||
+||||
   
 </td><td>
 
