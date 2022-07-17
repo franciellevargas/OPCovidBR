@@ -59,6 +59,6 @@ BIBTEX
 <br>
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
 
-<p align="justify"> This work was funded by Capes. </p>
+<p align="justify"> This work was funded by  Fapemig, Fapesp, CNPq and Capes. </p>
 </b>
 
