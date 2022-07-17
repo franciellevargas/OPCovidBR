@@ -33,7 +33,7 @@
   
 <p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy in order to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
 
-
+<b>
 <h2 align="left"> CITING </h2>
 
 
@@ -54,7 +54,7 @@ BIBTEX
   address   = {Rio Grande, RS, Brazil},
   crossref  = {http://bracis2020.c3.furg.br/acceptedPapers.html},
 }
-
+</b>
 
 <br>
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
