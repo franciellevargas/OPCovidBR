@@ -14,8 +14,8 @@
 
 |class|label|total|
 |--|--|--|  
-|positive|1|900| 
-|negative|0|900| 
+|positive|1|1000| 
+|negative|0|1000| 
 
 </td><td>
 
