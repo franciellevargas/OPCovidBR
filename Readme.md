@@ -33,8 +33,9 @@
   
 <p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy in order to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
 
- 
-CITING
+
+<h2 align="left"> CITING </h2>
+
 
 <p align="justify"> Vargas, F.A., Dos Santos, R.S.S., Rocha, P.R. (2020). Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic. In: Cerri, R., Prati, R.C. (eds) Intelligent Systems. BRACIS 2020. Lecture Notes in Computer Science, vol 12319. Springer, Cham. https://doi.org/10.1007/978-3-030-61377-8_35 </p>
 
@@ -55,4 +56,7 @@ BIBTEX
 }
 
 
+<h2 align="left"> ACKNOWLEDGEMENTS </h2>
+
+<p align="justify"> This work was funded by Capes. </p>
 
