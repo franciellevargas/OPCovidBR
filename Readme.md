@@ -37,7 +37,7 @@
 
 <br>
 <h2 align="left"> CITING </h2>
-<p align="justify"> Vargas, F.A., Dos Santos, R.S.S., Rocha, P.R. (2020). <b>Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic</b>. Proceedings of the 9th Brazilian Conference on Intelligent Systems Intelligent Systems (BRACIS 2020). pp 511–520. Held Online. Brazilian Computing Society. 
+<p align="justify"> Vargas, F., Dos Santos, R.S.S., Rocha, P.R. (2020). <b>Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic</b>. Proceedings of the 9th Brazilian Conference on Intelligent Systems Intelligent Systems (BRACIS 2020). pp 511–520. Held Online. Brazilian Computing Society. 
 </p>
 
 </br>
@@ -45,7 +45,7 @@
 <h2 align="left"> BIBTEX </h2>
 <p align="justify">
 @inproceedings{VargasEtAll2020,
-  author    = {Francielle Alves Vargas and
+  author    = {Francielle Vargas and
                Rodolfo Sanches Saraiva Dos Santos and
                Pedro Regattieri Rocha},
   title     = {Identifying fine-grained opinion and classifying polarity of twitter data on coronavirus pandemic},
