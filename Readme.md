@@ -4,7 +4,7 @@
 <br>
 
 <h2 align="center"> OPCovidBR : Aspect-Based Sentiment Analysis Corpus of Covid-19 Tweets in Portuguese</h2>  
-
+<br>
 <p align="justify"> The OPCovidBr is the first dataset of twitter data annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 1.800 twitters during the COVID-19 pandemic and annotated the fine-grained opinions for each twitter, as well as the binary document polarity (positive or negative). </p>
 
 
@@ -37,7 +37,7 @@
 
 <br>
 <h2 align="left"> CITING </h2>
-<p align="justify"> Vargas, F.A., Dos Santos, R.S.S., Rocha, P.R. (2020). <b>Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic</b>. Proceedings of the 9th Brazilian Conference on Intelligent Systems Intelligent Systems (BRACIS 2020). pp 511–520. Held Online. Brazilian Computing Society. https://link.springer.com/chapter/10.1007/978-3-030-61377-8_35.
+<p align="justify"> Vargas, F.A., Dos Santos, R.S.S., Rocha, P.R. (2020). <b>Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic</b>. Proceedings of the 9th Brazilian Conference on Intelligent Systems Intelligent Systems (BRACIS 2020). pp 511–520. Held Online. Brazilian Computing Society. 
 </p>
 
 </br>
@@ -53,7 +53,7 @@
   pages     = {01-10},
   year      = {2020},
   address   = {Rio Grande, RS, Brazil},
-  crossref  = {http://bracis2020.c3.furg.br/acceptedPapers.html},
+  crossref  = {http://bracis2020.c3.furg.br/acceptedPapers.html}
 }
 </p>
 
