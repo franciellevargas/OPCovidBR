@@ -1,6 +1,7 @@
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5611312b1573cb1e5689fae64ab4ede88502ed78/.github/Logo-DCCUFMG.jpg)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png)     ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/1c2ecbc54df5719102d068370b3eca9dacea8334/.github/locus_media.png)
 
+<br>
 
 <h2 align="center"> OPCovidBR : Aspect-Based Sentiment Analysis Corpus of Covid-19 Tweets in Portuguese</h2>  
 
@@ -30,19 +31,19 @@
 
 </td></tr></table>
 </div>
-  
+
+</br>
 <p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy in order to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
 
 <br>
 <h2 align="left"> CITING </h2>
+<p align="justify"> Vargas, F.A., Dos Santos, R.S.S., Rocha, P.R. (2020). <b>Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic</b>. Proceedings of the 9th Brazilian Conference on Intelligent Systems Intelligent Systems (BRACIS 2020). pp 511–520. Held Online. Brazilian Computing Society. https://link.springer.com/chapter/10.1007/978-3-030-61377-8_35.
+</p>
 
+</br>
 
-<p align="justify"> Vargas, F.A., Dos Santos, R.S.S., Rocha, P.R. (2020). Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic. In: Cerri, R., Prati, R.C. (eds) Intelligent Systems. BRACIS 2020. Lecture Notes in Computer Science, vol 12319. Springer, Cham. https://doi.org/10.1007/978-3-030-61377-8_35 </p>
-
-Link for the paper: https://link.springer.com/chapter/10.1007/978-3-030-61377-8_35
-  
-BIBTEX
-
+<h2 align="left"> BIBTEX </h2>
+<p align="justify">
 @inproceedings{VargasEtAll2020,
   author    = {Francielle Alves Vargas and
                Rodolfo Sanches Saraiva Dos Santos and
@@ -54,6 +55,8 @@ BIBTEX
   address   = {Rio Grande, RS, Brazil},
   crossref  = {http://bracis2020.c3.furg.br/acceptedPapers.html},
 }
+</p>
+
 </br>
 
 <br>
