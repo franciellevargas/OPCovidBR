@@ -20,15 +20,6 @@
 
 </td><td>
 
-|class|label|total|
-|--|--|--|  
-|politica |1|| 
-|health   |2||
-|economic |3||
-|other    |4||
-  
-</td><td>
-
 </td></tr></table>
 </div>
 
