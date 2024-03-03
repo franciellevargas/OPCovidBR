@@ -10,7 +10,7 @@
 
 <div align="center">
 <table> 
-  <tr><th>Polarity Classification</th><th>Fine-grained opinion groups</th></tr>
+  <tr><th>Polarity Classification</th></tr>
 <tr><td>
 
 |class|label|total|
