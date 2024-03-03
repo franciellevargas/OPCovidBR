@@ -18,8 +18,6 @@
 |positive|1|1000| 
 |negative|0|1000| 
 
-</td><td>
-
 </td></tr></table>
 </div>
 
