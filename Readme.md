@@ -2,7 +2,7 @@
 
 <h2 align="center"> OPCovid-pt: A Corpus for Aspect-Based Sentiment Analysis in Portuguese</h2>  
 <br>
-<p align="justify"> The OPCovidBr is the first dataset of Twitter data annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 1.800 Twitter during the COVID-19 pandemic and annotated the fine-grained opinions for each Twitter, as well as the binary document polarity (positive or negative). </p>
+<p align="justify"> The OPCovid-pt is a corpus of Twitter data on COVID-19 annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 1.800 Twitter during the COVID-19 pandemic and annotated the fine-grained opinions for each Twitter, as well as the binary document polarity (positive or negative). </p>
 
 
 <div align="center">
@@ -19,7 +19,7 @@
 </div>
 
 </br>
-<p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
+<p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using the OPCovid-pt dataset. For polarity classification, we tested a cross-domain strategy to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for the polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
 
 <br>
 <h2 align="left"> CITING </h2>
@@ -42,6 +42,13 @@
   crossref  = {https://dl.acm.org/doi/abs/10.1007/978-3-030-61377-8_35}
 }
 </p>
+
+</br>
+
+<h2 align="left"> FUNDING </h2>
+
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/e5ccb9cd6b43c26edacb2c4abd32fd75f8a574a2/.github/logo_novo_english.gif) 
+
 
 </br>
 
