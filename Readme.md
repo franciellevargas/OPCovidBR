@@ -18,11 +18,11 @@
 </div>
 
 </br>
-<p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy in order to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
+<p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using OPcovid-BR dataset. For polarity classification, we tested a cross-domain strategy to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
 
 <br>
 <h2 align="left"> CITING </h2>
-<p align="justify"> Vargas, F., Dos Santos, R.S.S., Rocha, P.R. (2020). <b>Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic</b>. Proceedings of the 9th Brazilian Conference on Intelligent Systems Intelligent Systems (BRACIS 2020). pp 511–520. Held Online. Brazilian Computing Society. 
+<p align="justify"> Vargas, F., Dos Santos, R.S.S., Rocha, P.R. (2020). <b>Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic</b>. Proceedings of the 9th Brazilian Conference on Intelligent Systems Intelligent Systems (BRACIS 2020). pp 511–520. Held Online. Brazilian Computing Society (SBC) <https://dl.acm.org/doi/abs/10.1007/978-3-030-61377-8_35>. 
 </p>
 
 </br>
@@ -38,7 +38,7 @@
   pages     = {01-10},
   year      = {2020},
   address   = {Rio Grande, RS, Brazil},
-  crossref  = {http://bracis2020.c3.furg.br/acceptedPapers.html}
+  crossref  = {https://dl.acm.org/doi/abs/10.1007/978-3-030-61377-8_35}
 }
 </p>
 
