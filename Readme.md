@@ -45,9 +45,4 @@
 
 </br>
 
-<br>
-<h2 align="left"> ACKNOWLEDGEMENTS </h2>
-
-<p align="justify"> This work was funded by  Fapesp, CNPq and Capes. </p>
-</b>
 
