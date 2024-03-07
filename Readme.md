@@ -1,7 +1,3 @@
-=
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png)     
-
-<br>
 
 <h2 align="center"> OPCovidBR : Aspect-Based Sentiment Analysis Corpus of Covid-19 Tweets in Portuguese</h2>  
 <br>
