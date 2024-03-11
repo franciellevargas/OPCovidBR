@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794040.svg)](https://doi.org/10.5281/zenodo.10794041)
 
-<h2 align="center"> OPCovid-pt: A Corpus for Aspect-Based Sentiment Analysis in Portuguese</h2>  
+<h2 align="center"> OPCovidBR: A Corpus for Aspect-Based Sentiment Analysis in Portuguese</h2>  
 <br>
-<p align="justify"> The OPCovid-pt is a corpus of Twitter data on COVID-19 annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 1.800 Twitter during the COVID-19 pandemic and annotated the fine-grained opinions for each Twitter, as well as the binary document polarity (positive or negative). </p>
+<p align="justify"> The OPCovidBR is a corpus of Twitter data on COVID-19 annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 2.000 tweets during the COVID-19 pandemic and annotated them in the fine-grained level opinion, as well as the binary document polarity (positive or negative). </p>
 
 
 <div align="center">
@@ -19,7 +19,7 @@
 </div>
 
 </br>
-<p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using the OPCovid-pt dataset. For polarity classification, we tested a cross-domain strategy to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for the polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
+<p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using the OPCovidBR dataset. For polarity classification, we tested a cross-domain strategy to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for the polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
 
 <br>
 <h2 align="left"> CITING </h2>
