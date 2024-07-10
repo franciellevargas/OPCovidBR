@@ -2,7 +2,7 @@
 
 <h2 align="center"> OPCovidBR: A Corpus for Aspect-Based Sentiment Analysis on Coronavirus Pandemic in Portuguese</h2>  
 <br>
-<p align="justify"> The OPCovidBR is a corpus of Twitter data on COVID-19 annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. We extracted 2.000 tweets during the COVID-19 pandemic and annotated them in the fine-grained level opinion, as well as the binary document polarity (positive or negative). </p>
+<p align="justify"> The OPCovidBR is a corpus of Twitter data on COVID-19 annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. It is composed of 2.000 tweets extracted during the COVID-19 pandemic and annotated at aspect-level, as well as the binary document polarity (positive or negative). </p>
 
 
 <div align="center">
