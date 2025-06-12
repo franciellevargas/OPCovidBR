@@ -2,7 +2,7 @@
 
 <h2 align="center"> OPCovidBR: A Corpus for Aspect-Based Sentiment Analysis on Coronavirus Pandemic in Portuguese</h2>  
 <br>
-<p align="justify"> The OPCovidBR is a corpus of Twitter data on COVID-19 annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. It is composed of 2.000 tweets extracted during the COVID-19 pandemic and annotated at aspect-level, as well as the binary document polarity (positive or negative). </p>
+<p align="justify">The OPCovidBR is a corpus of Twitter data about COVID-19, annotated with fine-grained opinions and sentiment polarity in Brazilian Portuguese. It consists of 2,000 tweets collected during the COVID-19 pandemic, annotated at the aspect level, along with the overall document polarity (positive or negative). </p>
 
 
 <div align="center">
@@ -19,12 +19,8 @@
 </div>
 
 </br>
-<p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using the OPCovidBR dataset. For polarity classification, we tested a cross-domain strategy to measure the performance of the classifiers among different domains. For fine-grained opinion identification, we created a taxonomy of aspects and employed them in conjunction with machine learning methods. Based on the obtained results, we found that the cross-domain method improved the results for the polarity classification task. However, the use of a domain taxonomy presented competitive results for fine-grained opinion identification in Portuguese. </p>
+<p align="justify"> We also provide machine learning-based classifiers for fine-grained opinion and polarity classification tasks using the OPCovidBR dataset. For polarity classification, we adopted a cross-domain strategy to evaluate the classifiers' performance across different domains. For fine-grained opinion identification, we developed a taxonomy of aspects and applied it in combination with machine learning methods. Based on the results, we found that the cross-domain approach improved performance in the polarity classification task. However, the use of a domain-specific taxonomy yielded competitive results for fine-grained opinion identification in Portuguese. </p>
 
-<br>
-<h2 align="left"> CITING </h2>
-<p align="justify"> Vargas, F., Dos Santos, R.S.S., Rocha, P.R. (2020). <b>Identifying Fine-Grained Opinion and Classifying Polarity on Coronavirus Pandemic</b>. Proceedings of the 9th Brazilian Conference on Intelligent Systems Intelligent Systems (BRACIS 2020). pp 511–520. Held Online. Brazilian Computing Society (SBC) <https://dl.acm.org/doi/abs/10.1007/978-3-030-61377-8_35>. 
-</p>
 
 </br>
 
