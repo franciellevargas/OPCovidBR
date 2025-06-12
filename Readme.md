@@ -28,8 +28,10 @@
 
 </br>
 
-<h2 align="left"> BIBTEX </h2>
-<p align="justify">
+<h2 align="left"> CITING / BIBTEX </h2>
+
+Please cite our paper if you use our dataset:
+```bibtex>
 @inproceedings{VargasEtAll2020,
   author    = {Francielle Vargas and
                Rodolfo Sanches Saraiva Dos Santos and
@@ -41,7 +43,7 @@
   address   = {Rio Grande, RS, Brazil},
   crossref  = {https://dl.acm.org/doi/abs/10.1007/978-3-030-61377-8_35}
 }
-</p>
+```
 
 </br>
 
